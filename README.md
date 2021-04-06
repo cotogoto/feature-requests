@@ -7,7 +7,7 @@ CotoGotoは、会話の内容を分析することで、 フリーランスの�
 
 - [CotoGotoの開発状況はこちら](https://github.com/orgs/cotogoto/projects/1?fullscreen=true)
 
-![画面](image.png)]
+![画面](image.png)
 
 
 ## GitHub アカウントをお持ちの方へ
